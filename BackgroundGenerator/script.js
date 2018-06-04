@@ -16,6 +16,14 @@ function setGradient(){
     css.textContent = body.style.background + ";";
 }
 
-
 c1.addEventListener("input", setGradient)
 c2.addEventListener("input", setGradient)
+
+
+// 1. Write code so that the colour inputs match the background generated on the first page load. 
+
+// 2. Display the initial CSS linear gradient property on page load.
+
+// 3. BONUS: Add a random button which generates two random numbers for the colour inputs.
+
+// Good luck!

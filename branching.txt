@@ -1,0 +1,2 @@
+git branch [BranchName]  {ENTER}
+git checkout [BranchName]  {ENTER}
